@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6EC7&height=90&section=header"/>
-
 <h1 align="center">
   Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
   alt="Waving hand animated gif" height="45" width="45" /> 
